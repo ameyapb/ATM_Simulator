@@ -10,7 +10,8 @@ This project is a simulator designed to mimic the functionality of a basic ATM (
 - Balance Inquiry: Users can check their account balance to view the available funds in their account.
 - Deposit: The simulator supports deposit functionality, allowing users to add funds to their accounts. Users can specify the amount they want to deposit, and the simulator updates the account balance accordingly.
 - Transaction History: The simulator keeps track of transaction history, providing users with a record of their recent account activities.
--Usage and Benefits:
+
+**-Usage and Benefits:**
 
 - Learning Environment: The simulator serves as a learning tool for individuals who want to understand how ATM machines work and get familiar with typical ATM operations.
 - Training Tool: It can be used as a training resource for bank employees or individuals working in the financial industry to practice and enhance their skills in handling ATM transactions.
